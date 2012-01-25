@@ -125,7 +125,7 @@ function Display(data)
 							fonction = 'Activiste';
 							break;
 						}
-						texte += '- Pseudo : '+data.ville[i].utilisateur[j].username+'<br />';
+						texte += '- Pseudo : '+'<a href="'+data.ville[i].utilisateur.id+'">'+data.ville[i].utilisateur.username+'</a><br />';
 						texte += '  Fonction : '+fonction+'<br />';
 						texte += '  Comp&eacute;tences : '+data.ville[i].utilisateur[j].competences+'<br />';
 						texte += '  Disponibilit&eacute; : '+data.ville[i].utilisateur[j].disponibilite+'<br /><br />';
@@ -150,7 +150,7 @@ function Display(data)
 						break;
 					}
 
-					texte += '- Pseudo : '+data.ville[i].utilisateur.username+'<br />';
+					texte += '- Pseudo : '+'<a href="'+data.ville[i].utilisateur.id+'">'+data.ville[i].utilisateur.username+'</a><br />';
 					texte += '  Fonction : '+fonction+'<br />';
 					texte += '  Comp&eacute;tences : '+data.ville[i].utilisateur.competences+'<br />';
 					texte += '  Disponibilit&eacute; : '+data.ville[i].utilisateur.disponibilite+'<br /><br />';
@@ -167,7 +167,7 @@ function Display(data)
 			// single status
 			texte += 'Les Zeitgeisters de '+data.ville.nom+' :<br /><br />';
 
-			texte += '- Pseudo : '+data.ville.utilisateur.username+'<br />';
+			texte += '- Pseudo : '+'<a href="'+data.ville[i].utilisateur.id+'">'+data.ville[i].utilisateur.username+'</a><br />';
 			texte += '  Fonction : '+data.ville.utilisateur.usertype+'<br />';
 			texte += '  Comp&eacute;tences : '+data.ville.utilisateur.competences+'<br />';
 			texte += '  Disponibilit&eacute; : '+data.ville.utilisateur.disponibilite+'<br />';
