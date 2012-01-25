@@ -1,0 +1,2450 @@
+<xml>
+    <ville nom="Limoges" region="Limousin" pays="France" lat="45.83153" long="1.2578">
+      <utilisateur id="43">
+        <username>Jonacre</username>
+        <usertype>Super Users</usertype>
+        <competences>Développement, Médiation, Relations publiques, Documentation, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Senlis" region="Picardie" pays="France" lat="" long="">
+      <utilisateur id="47">
+        <username>Alter-Children</username>
+        <usertype>Super Users</usertype>
+        <competences>Développement, Audiovisuel, Création de supports, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1181">
+        <username>juliette</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Valenciennes" region="Nord-Pas-de-Calais" pays="France" lat="50.35" long="3.53333">
+      <utilisateur id="64">
+        <username>Uktar</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Audiovisuel, Création de supports, Webdesign</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="113">
+        <username>shgeoffrey</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1015">
+        <username>NowhereBoy</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Législation, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="rennes" region="Bretagne" pays="France" lat="" long="">
+      <utilisateur id="1263">
+        <username>rikokoss</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Documentation, Réflexion stratégique, Relecture, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Paris" region="Île-de-France" pays="France" lat="48.85341" long="2.3488">
+      <utilisateur id="963">
+        <username>Challyeo</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1255">
+        <username>jiji</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Création de supports</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1215">
+        <username>jonahlomu</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Réflexion stratégique, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1236">
+        <username>durban</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel, Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1137">
+        <username>Ysfael</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Relations étrangères, Traduction, Audiovisuel, Documentation, Modération, Relations publiques, Création de supports, Évènementiel, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="825">
+        <username>chachouen</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation, Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="826">
+        <username>clactar</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="839">
+        <username>Galo</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="842">
+        <username>adamcontu</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="911">
+        <username>kevinf</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relations étrangères, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="913">
+        <username>Gigicapi</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="924">
+        <username>INEL</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Relations étrangères, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1138">
+        <username>Ynatea</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Documentation, Relations publiques, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="971">
+        <username>boozette4</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="999">
+        <username>LaurentB</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1048">
+        <username>luigimonstro</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Traduction, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1057">
+        <username>tonytony</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Audiovisuel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1070">
+        <username>dan</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Évènementiel, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1087">
+        <username>platoonvil</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1100">
+        <username>zebra</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1110">
+        <username>yannou</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1117">
+        <username>mlipeb</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1156">
+        <username>Molopus</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations étrangères, Audiovisuel, Relations publiques, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1274">
+        <username>thinkyourself</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Audiovisuel, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Perreux-sur-Marne" region="Île-de-France" pays="France" lat="48.85" long="2.5">
+      <utilisateur id="138">
+        <username>sandjey</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Développement, Législation, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="BORDEAUX" region="Aquitaine" pays="France" lat="" long="">
+      <utilisateur id="1205">
+        <username>marcolulu</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Varennes" region="Montérégie" pays="Canada" lat="" long="">
+      <utilisateur id="1261">
+        <username>SiLvErInG</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Audiovisuel, Documentation, Relecture, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Hotel Liege Strasbourg" region="Alsace" pays="France" lat="48.8733" long="2.3564">
+      <utilisateur id="164">
+        <username>Legardien67</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Réflexion stratégique, Modération, Évènementiel, Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Avignon" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1228">
+        <username>NatiNath</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1032">
+        <username>JaSe</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Documentation, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Milhaud" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1227">
+        <username>isia</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="le vernet" region="Midi-Pyrénées" pays="France" lat="" long="">
+      <utilisateur id="1226">
+        <username>titou</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Nantes" region="Pays de la Loire" pays="France" lat="47.21725" long="-1.55336">
+      <utilisateur id="1128">
+        <username>brunohar</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Traduction, Relations publiques, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="833">
+        <username>beusser</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Documentation, Relations étrangères, Création de supports, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="918">
+        <username>julien2lesquin</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Législation, Relecture, Documentation, Modération, Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="929">
+        <username>absinth</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1013">
+        <username>flex</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1017">
+        <username>KRUGER44</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1113">
+        <username>marek</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1158">
+        <username>aoku</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Législation, Traduction, Documentation, Création de supports, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="marseille" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1225">
+        <username>solaria13</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Audiovisuel, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1285">
+        <username>30111985ctp</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Pessac" region="Aquitaine" pays="France" lat="44.8" long="-0.61667">
+      <utilisateur id="966">
+        <username>freesoundculture</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Toulouse" region="Midi-Pyrénées" pays="France" lat="43.60426" long="1.44367">
+      <utilisateur id="213">
+        <username>tigroulion</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1235">
+        <username>ghobuster31</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Audiovisuel, Documentation</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="822">
+        <username>nyco</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="952">
+        <username>oasiscitron</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1010">
+        <username>Miosotis31</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1066">
+        <username>abzamon</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Création de supports, Rédaction, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1074">
+        <username>louloot</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relations étrangères, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1306">
+        <username>Sebastian</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bordeaux" region="Aquitaine" pays="France" lat="44.84044" long="-0.5805">
+      <utilisateur id="1132">
+        <username>vince7squares</username>
+        <usertype>Registered</usertype>
+        <competences>Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="815">
+        <username>smiler</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="819">
+        <username>GPBrice</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Relecture, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="883">
+        <username>yohannporta</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relecture, Évènementiel, Webdesign</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="921">
+        <username>Janluc</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Relations étrangères, Création de supports, Évènementiel, Rédaction</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1036">
+        <username>elinka</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1124">
+        <username>Nagual</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Documentation, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lyon" region="Rhône-Alpes" pays="France" lat="45.75" long="4.85">
+      <utilisateur id="238">
+        <username>sebzmsf</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Relations étrangères, Traduction, Rédaction, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1197">
+        <username>anonyme69</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="955">
+        <username>narcisse0</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="981">
+        <username>RaphaelGB6</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="998">
+        <username>Light</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1073">
+        <username>Atorion</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1078">
+        <username>s0ly</username>
+        <usertype>Registered</usertype>
+        <competences>Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1103">
+        <username>nino</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1151">
+        <username>siick</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Audiovisuel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="L'Haÿ-les-Roses" region="Île-de-France" pays="France" lat="48.78333" long="2.33333">
+      <utilisateur id="253">
+        <username>kubricker</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Audiovisuel, Création de supports, Évènementiel, Rédaction</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Essey-les-Nancy" region="Lorraine" pays="France" lat="" long="">
+      <utilisateur id="1260">
+        <username>Tone</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Gramat" region="Midi-Pyrénées" pays="France" lat="" long="">
+      <utilisateur id="1270">
+        <username>liondor46</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="BLAIN" region="Pays de la Loire" pays="France" lat="" long="">
+      <utilisateur id="1259">
+        <username>BarneyStinson</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Réflexion stratégique, Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cestayrols" region="Midi-Pyrénées" pays="France" lat="43.98026" long="1.98371">
+      <utilisateur id="295">
+        <username>patacordes</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Genève" region="Région lémanique" pays="Suisse" lat="" long="">
+      <utilisateur id="1258">
+        <username>Ema</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Relations publiques, Documentation, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="ROANNE" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1223">
+        <username>Nicolat42</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Réflexion stratégique, Création de supports</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Jean-du-Falga" region="Midi-Pyrénées" pays="France" lat="43.08333" long="1.61667">
+      <utilisateur id="976">
+        <username>POLO</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Georges" region="Aquitaine" pays="France" lat="44.45" long="0.93333">
+      <utilisateur id="314">
+        <username>Jean-Pierre</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Modération</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="charleville mezieres" region="Champagne-Ardenne" pays="France" lat="" long="">
+      <utilisateur id="1257">
+        <username>arcadiabara</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Strasbourg" region="Alsace" pays="France" lat="" long="">
+      <utilisateur id="1256">
+        <username>Opening</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1168">
+        <username>dave67</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Documentation, Création de supports, Évènementiel, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1305">
+        <username>ced</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Relecture, Création de supports, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="PARIS" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1250">
+        <username>rimasos</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Audiovisuel, Réflexion stratégique, Évènementiel, Relations étrangères</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="trou" region="Martinique" pays="Belgique" lat="" long="">
+      <utilisateur id="1221">
+        <username>derx</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Marseille" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1220">
+        <username>inconscience</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Réflexion stratégique, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1210">
+        <username>AnneFlore</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Relecture, Création de supports, Évènementiel, Relations étrangères, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1204">
+        <username>ZeMaD</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Médiation, Documentation, Réflexion stratégique, Relecture, Évènementiel, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="936">
+        <username>quenter</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1012">
+        <username>Taturana</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1019">
+        <username>alpha2mars</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relecture, Documentation, Modération, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1045">
+        <username>risoulecoucou</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Documentation, Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="menzel tmim" region="" pays="Tunisie" lat="" long="">
+      <utilisateur id="1219">
+        <username>gouga11</username>
+        <usertype>Registered</usertype>
+        <competences>Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="besançon" region="Franche-Comté" pays="France" lat="" long="">
+      <utilisateur id="1254">
+        <username>check</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Toulon" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1218">
+        <username>lepierre</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="859">
+        <username>Atakama</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Relations étrangères, Traduction, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="950">
+        <username>Sov</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1039">
+        <username>Vilden83</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Création de supports</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1195">
+        <username>Dav3noos</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cormeilles-en-Parisis" region="Île-de-France" pays="France" lat="48.97111" long="2.20491">
+      <utilisateur id="1169">
+        <username>redman95</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Traduction, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Roost warendin" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1246">
+        <username>wildmax</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Boulogne sur Mer" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1245">
+        <username>mathdead20x</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Grenoble" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1217">
+        <username>tetuve</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Réflexion stratégique, Relecture, Création de supports</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="812">
+        <username>Salim</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Modération, Relations étrangères, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="813">
+        <username>Rom2033</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relecture, Relations étrangères, Traduction, Rédaction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1029">
+        <username>leslie</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Audiovisuel, Relations étrangères, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1067">
+        <username>maybe</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Relations étrangères, Rédaction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1144">
+        <username>mutten</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1315">
+        <username>Magdalena</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Québec" region="Capitale-Nationale" pays="Canada" lat="" long="">
+      <utilisateur id="1244">
+        <username>Satilaud</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Documentation, Réflexion stratégique, Relecture, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Montceau-les-Mines" region="Bourgogne" pays="France" lat="46.66667" long="4.36667">
+      <utilisateur id="547">
+        <username>20sept</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Modération, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Besançon" region="Franche-Comté" pays="France" lat="" long="">
+      <utilisateur id="1242">
+        <username>Toinou</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="montpellier" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1241">
+        <username>zzfr1</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="lyon" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1216">
+        <username>cedricdutemps</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="bordeaux" region="Aquitaine" pays="France" lat="" long="">
+      <utilisateur id="1240">
+        <username>youlint</username>
+        <usertype>Registered</usertype>
+        <competences>Documentation, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="toulouse" region="Midi-Pyrénées" pays="France" lat="" long="">
+      <utilisateur id="1214">
+        <username>samsoufi</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Boulogne sur mer" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1239">
+        <username>gouttedeau</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Création de supports, Relations étrangères</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Marrakech" region="" pays="Maroc" lat="31.63148" long="-8.00828">
+      <utilisateur id="1130">
+        <username>Ghofrane</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Modération, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1298">
+        <username>dib</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Documentation, Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Casablanca" region="" pays="Maroc" lat="" long="">
+      <utilisateur id="1213">
+        <username>zako07</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Relations publiques, Réflexion stratégique, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="823">
+        <username>abdeslam</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1091">
+        <username>hamza</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relations étrangères, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="NICE" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1238">
+        <username>dimdoum</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Relecture, Création de supports, Évènementiel, Relations étrangères, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Soignies" region="Hainaut" pays="Belgique" lat="50.57904" long="4.07129">
+      <utilisateur id="1135">
+        <username>Floxit</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Traduction, Audiovisuel, Documentation, Modération, Création de supports, Évènementiel, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Luc-Le Cannet" region="P.A.C.A." pays="France" lat="43.38467" long="6.38714">
+      <utilisateur id="1133">
+        <username>angelo</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Audiovisuel, Documentation, Relations publiques, Création de supports, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Montluçon" region="Auvergne" pays="France" lat="" long="">
+      <utilisateur id="1212">
+        <username>Aka</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Évènementiel, Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="st-francois du lac" region="Centre-du-Québec" pays="Canada" lat="" long="">
+      <utilisateur id="1237">
+        <username>masayac</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Audiovisuel, Documentation</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Madrid" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1209">
+        <username>goldtrotter</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Réflexion stratégique, Relecture, Création de supports, Évènementiel, Relations étrangères, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Montpellier" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1208">
+        <username>Soufyan</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="821">
+        <username>salma</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="827">
+        <username>ekinox</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="919">
+        <username>davidlawchune</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Audiovisuel, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="931">
+        <username>cyprien</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture, Documentation, Relations étrangères, Évènementiel, Rédaction, Relations publiques, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1058">
+        <username>Carmhed</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1072">
+        <username>biosofia</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Relations étrangères, Rédaction</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1155">
+        <username>Zben</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Relations publiques, Création de supports, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1183">
+        <username>G34</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1185">
+        <username>PierreCoupon</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Nice" region="P.A.C.A." pays="France" lat="43.70313" long="7.26608">
+      <utilisateur id="793">
+        <username>irane</username>
+        <usertype>Coordinateurs</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="905">
+        <username>olivier06nice</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="928">
+        <username>boffatzm</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Évènementiel, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Vertou" region="Pays de la Loire" pays="France" lat="" long="">
+      <utilisateur id="1234">
+        <username>TogoLeGosu</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bastia" region="Corse" pays="France" lat="42.9606" long="9.3698">
+      <utilisateur id="800">
+        <username>Nagora</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations publiques, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="994">
+        <username>Phil</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Tours" region="Centre" pays="France" lat="47.38333" long="0.68333">
+      <utilisateur id="811">
+        <username>ckristof5</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Vallet" region="Pays de la Loire" pays="France" lat="47.16667" long="-1.26667">
+      <utilisateur id="831">
+        <username>manda</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation, Traduction, Création de supports, Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Vientiane" region="" pays="Laos" lat="17.96667" long="102.6">
+      <utilisateur id="835">
+        <username>metanova</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel, Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bruz" region="Bretagne" pays="France" lat="48.03333" long="-1.75">
+      <utilisateur id="836">
+        <username>calvin</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Les Angles" region="Languedoc-Roussillon" pays="France" lat="42.58333" long="2.08333">
+      <utilisateur id="838">
+        <username>Maub</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Brest-Bretagne" region="Bretagne" pays="France" lat="48.44791" long="-4.41854">
+      <utilisateur id="840">
+        <username>QUANTIQUE</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Documentation, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Brussels" region="Brabant wallon" pays="Belgique" lat="50.85045" long="4.34878">
+      <utilisateur id="843">
+        <username>blackgti</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Modération, Relations étrangères, Création de supports, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bologna" region="" pays="Italie" lat="44.49381" long="11.33875">
+      <utilisateur id="845">
+        <username>dalimans</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Denis" region="Île-de-France" pays="France" lat="48.93333" long="2.36667">
+      <utilisateur id="847">
+        <username>MitchOOn</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="L'Isle-Adam" region="Île-de-France" pays="France" lat="49.10744" long="2.22818">
+      <utilisateur id="850">
+        <username>Roulax</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="MontÃ©limar" region="Rhône-Alpes" pays="France" lat="44.55838" long="4.75094">
+      <utilisateur id="851">
+        <username>ericasw28</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Documentation, Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Granville" region="Basse-Normandie" pays="France" lat="48.83792" long="-1.59714">
+      <utilisateur id="853">
+        <username>chichil</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="alma" region="Saguenay-Lac-Saint-Jean" pays="Canada" lat="" long="">
+      <utilisateur id="1232">
+        <username>steevemartel</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="La Boisse" region="Rhône-Alpes" pays="France" lat="45.84278" long="5.03639">
+      <utilisateur id="1126">
+        <username>florian190791</username>
+        <usertype>Registered</usertype>
+        <competences>Documentation, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Livry-Gargan" region="Île-de-France" pays="France" lat="48.9193" long="2.54305">
+      <utilisateur id="856">
+        <username>Gigasse</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Nîmes" region="Languedoc-Roussillon" pays="France" lat="43.83333" long="4.35">
+      <utilisateur id="860">
+        <username>alexvhsb</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Affrique" region="Midi-Pyrénées" pays="France" lat="43.95575" long="2.88915">
+      <utilisateur id="861">
+        <username>mgc</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Potigny" region="Basse-Normandie" pays="France" lat="48.96925" long="-0.24166">
+      <utilisateur id="862">
+        <username>SimKeyes</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Audiovisuel, Documentation, Création de supports, Évènementiel, Relations publiques, Webdesign</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Argelers" region="Languedoc-Roussillon" pays="France" lat="42.54714" long="3.02253">
+      <utilisateur id="863">
+        <username>joachim</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="esquelbecq" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1231">
+        <username>zionfighter</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Documentation, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Valence" region="Rhône-Alpes" pays="France" lat="44.93333" long="4.9">
+      <utilisateur id="866">
+        <username>sangothias</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1064">
+        <username>Corky</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Jean-sur-Richelieu" region="" pays="Canada" lat="45.31678" long="-73.26586">
+      <utilisateur id="867">
+        <username>yza30</username>
+        <usertype>Registered</usertype>
+        <competences>Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Gueugnon" region="Bourgogne" pays="France" lat="46.60357" long="4.06286">
+      <utilisateur id="868">
+        <username>nosferatu</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Blagnac" region="Midi-Pyrénées" pays="France" lat="43.63333" long="1.4">
+      <utilisateur id="869">
+        <username>nahasi</username>
+        <usertype>Registered</usertype>
+        <competences>Modération, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lille" region="Nord-Pas-de-Calais" pays="France" lat="50.63333" long="3.06667">
+      <utilisateur id="870">
+        <username>Chucky</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Audiovisuel, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="874">
+        <username>msk</username>
+        <usertype>Registered</usertype>
+        <competences>Législation, Réflexion stratégique, Audiovisuel, Documentation, Rédaction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="949">
+        <username>neo62890</username>
+        <usertype>Registered</usertype>
+        <competences>Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="958">
+        <username>Wawwid</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1033">
+        <username>Lyade</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Modération, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1273">
+        <username>Brook</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Gosier" region="Guadeloupe" pays="Guadeloupe" lat="16.20685" long="-61.49329">
+      <utilisateur id="871">
+        <username>docblunt</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Évènementiel, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Caen" region="Basse-Normandie" pays="France" lat="49.18585" long="-0.35912">
+      <utilisateur id="872">
+        <username>tylrahc</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Mans" region="Pays de la Loire" pays="France" lat="48" long="0.2">
+      <utilisateur id="875">
+        <username>Boo009</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Modération, Création de supports, Évènementiel, Rédaction, Relations publiques, Webdesign</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="930">
+        <username>tlmgss</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relecture, Traduction, Webdesign</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1099">
+        <username>zeitgeist72</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Modération, Rédaction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Sedan" region="Champagne-Ardenne" pays="France" lat="49.7" long="4.95">
+      <utilisateur id="876">
+        <username>sebzeitgeist</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Ans" region="Liège" pays="Belgique" lat="50.6623" long="5.52029">
+      <utilisateur id="878">
+        <username>PolakoS</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="BesanÃ§on" region="Franche-Comté" pays="France" lat="47.25" long="6.03333">
+      <utilisateur id="880">
+        <username>Grumly</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relecture, Modération, Traduction</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="959">
+        <username>Avantasia</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Rabat" region="" pays="Maroc" lat="34.01325" long="-6.83255">
+      <utilisateur id="884">
+        <username>naf</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Audiovisuel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Chesnay" region="Île-de-France" pays="France" lat="48.83333" long="2.11667">
+      <utilisateur id="885">
+        <username>niko7882</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relecture, Audiovisuel, Documentation, Traduction, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1007">
+        <username>sosodef1802</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Clamart" region="Île-de-France" pays="France" lat="48.8" long="2.26667">
+      <utilisateur id="886">
+        <username>sneko</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="OrlÃ©ans" region="Centre" pays="France" lat="47.91667" long="1.9">
+      <utilisateur id="887">
+        <username>violeta</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation, Relations étrangères, Traduction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Pierre-du-Mont" region="Aquitaine" pays="France" lat="43.88453" long="-0.52185">
+      <utilisateur id="888">
+        <username>Lee</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bagnolet" region="Île-de-France" pays="France" lat="48.86667" long="2.41667">
+      <utilisateur id="889">
+        <username>Ricardo</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="915">
+        <username>claire93170</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Documentation, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Ixelles" region="Bruxelles-Capitale" pays="Belgique" lat="50.83333" long="4.36667">
+      <utilisateur id="890">
+        <username>Neko</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Webdesign</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Tunisian Republic" region="" pays="Tunisie" lat="34" long="9">
+      <utilisateur id="891">
+        <username>nidhal</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1001">
+        <username>selimcherif</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1178">
+        <username>Angel</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Relations étrangères, Modération, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Sept-Ãles" region="Côte-Nord" pays="Canada" lat="50.20011" long="-66.38208">
+      <utilisateur id="893">
+        <username>simjoub</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Salies-de-BÃ©arn" region="Aquitaine" pays="France" lat="43.47422" long="-0.92448">
+      <utilisateur id="894">
+        <username>NWOkiller</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Aubervilliers" region="Île-de-France" pays="France" lat="48.91667" long="2.38333">
+      <utilisateur id="895">
+        <username>oguarib</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="New York City" region="" pays="United States" lat="40.71427" long="-74.00597">
+      <utilisateur id="896">
+        <username>ismo</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Documentation, Relations étrangères, Traduction, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Maisons-Laffitte" region="Île-de-France" pays="France" lat="48.95264" long="2.14521">
+      <utilisateur id="897">
+        <username>Florent</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture, Création de supports</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="LiÃ¨ge" region="" pays="Belgique" lat="50.63373" long="5.56749">
+      <utilisateur id="899">
+        <username>machattitude</username>
+        <usertype>Registered</usertype>
+        <competences>Documentation, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1116">
+        <username>ripasseye</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations étrangères, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Villelaure" region="P.A.C.A." pays="France" lat="" long="">
+      <utilisateur id="1202">
+        <username>Aodrenn</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Audiovisuel, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Versailles" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1203">
+        <username>kokoro</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1105">
+        <username>cmontoni31</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation, Traduction, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="CourthÃ©zon" region="P.A.C.A." pays="France" lat="44.08731" long="4.88382">
+      <utilisateur id="903">
+        <username>christangel84</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Évènementiel, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Alenquer" region="" pays="Bresil" lat="-0.85422" long="-54.94506">
+      <utilisateur id="904">
+        <username>pacacega</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Documentation, Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Perpignan" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1230">
+        <username>bacalao</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1120">
+        <username>RomG</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Germain-en-Laye" region="Île-de-France" pays="France" lat="48.9" long="2.08333">
+      <utilisateur id="907">
+        <username>Guerdgae</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Documentation, Modération, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="937">
+        <username>mehditennis</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Audiovisuel, Relations étrangères, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="paris" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1201">
+        <username>josuachi</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Ãtienne" region="Rhône-Alpes" pays="France" lat="45.43333" long="4.4">
+      <utilisateur id="914">
+        <username>emas</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relations étrangères, Création de supports</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Huriel" region="Auvergne" pays="France" lat="46.37368" long="2.47793">
+      <utilisateur id="922">
+        <username>Miko03</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Libourne" region="Aquitaine" pays="France" lat="44.91667" long="-0.23333">
+      <utilisateur id="923">
+        <username>GTi5</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Audiovisuel, Documentation, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="MÃ©jannes-le-Clap" region="Languedoc-Roussillon" pays="France" lat="44.22526" long="4.3483">
+      <utilisateur id="925">
+        <username>Shakti</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Documentation, Évènementiel, Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="ChÃ¢teauneuf-du-Pape" region="P.A.C.A." pays="France" lat="44.05638" long="4.83244">
+      <utilisateur id="926">
+        <username>jeffsurmer</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Modération, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Boulogne-Billancourt" region="Île-de-France" pays="France" lat="48.83333" long="2.25">
+      <utilisateur id="927">
+        <username>davinzz</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="987">
+        <username>Alexstad</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Chazeaux" region="Languedoc-Roussillon" pays="France" lat="44.82369" long="3.7172">
+      <utilisateur id="933">
+        <username>lejuste</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Documentation, Création de supports, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Omer" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1321">
+        <username>Batmax</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Documentation, Création de supports</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Martin-de-Crau" region="P.A.C.A." pays="France" lat="43.63955" long="4.8127">
+      <utilisateur id="935">
+        <username>guyver</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="la loupe" region="Centre" pays="France" lat="" long="">
+      <utilisateur id="1199">
+        <username>florette</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Médiation, Relations publiques, Réflexion stratégique, Création de supports, Évènementiel, Relations étrangères</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Tourcoing" region="Nord-Pas-de-Calais" pays="France" lat="50.71667" long="3.15">
+      <utilisateur id="943">
+        <username>Wolf59200</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Charleroi" region="" pays="Belgique" lat="50.41136" long="4.44448">
+      <utilisateur id="947">
+        <username>123</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Documentation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Villepot" region="Pays de la Loire" pays="France" lat="47.78333" long="-1.28333">
+      <utilisateur id="948">
+        <username>ztg</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Audiovisuel, Documentation, Relations étrangères, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Troyes" region="Champagne-Ardenne" pays="France" lat="48.3" long="4.08333">
+      <utilisateur id="951">
+        <username>Spada</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1041">
+        <username>Axew</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel, Modération, Création de supports, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Vannes" region="Bretagne" pays="France" lat="47.66667" long="-2.75">
+      <utilisateur id="953">
+        <username>YanoO</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="MontrÃ©al" region="Montréal" pays="Canada" lat="45.50884" long="-73.58781">
+      <utilisateur id="954">
+        <username>elboch</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Relations étrangères, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1069">
+        <username>emery</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Modération, Création de supports, Évènementiel, Rédaction</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+      <utilisateur id="1148">
+        <username>mikekiwi</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint-Pierre-Ãglise" region="La Réunion" pays="France" lat="49.66848" long="-1.40358">
+      <utilisateur id="956">
+        <username>ponthou</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation, Création de supports, Relations publiques, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Rouen" region="Haute-Normandie" pays="France" lat="49.44313" long="1.09932">
+      <utilisateur id="957">
+        <username>nyght</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1276">
+        <username>Soutila86</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques, Audiovisuel, Réflexion stratégique, Relecture, Création de supports, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Barbentane" region="P.A.C.A." pays="France" lat="43.89967" long="4.74921">
+      <utilisateur id="962">
+        <username>Bamboo</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Le Bignon" region="Pays de la Loire" pays="France" lat="47.09722" long="-1.49167">
+      <utilisateur id="965">
+        <username>tanita</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Traduction, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="PomÃ©rols" region="Languedoc-Roussillon" pays="France" lat="43.39139" long="3.49944">
+      <utilisateur id="967">
+        <username>adinuta</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Traduction, Création de supports</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Albi" region="Midi-Pyrénées" pays="France" lat="43.9298" long="2.148">
+      <utilisateur id="972">
+        <username>alexdafresh</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Laval" region="Pays de la Loire" pays="France" lat="48.06667" long="-0.76667">
+      <utilisateur id="977">
+        <username>Al3x</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="La Mure" region="Rhône-Alpes" pays="France" lat="44.90256" long="5.78659">
+      <utilisateur id="978">
+        <username>raph3883</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Législation, Réflexion stratégique, Documentation</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="LYON" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1248">
+        <username>BILOuuu007</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1268">
+        <username>theau</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="villeparisis" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1249">
+        <username>doudou</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Martigny-les-Gerbonvaux" region="Lorraine" pays="France" lat="48.45" long="5.8">
+      <utilisateur id="984">
+        <username>marielle</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Documentation, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Metz" region="Lorraine" pays="France" lat="49.11911" long="6.17269">
+      <utilisateur id="985">
+        <username>Deesse</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Audiovisuel, Documentation, Évènementiel, Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Stains" region="Île-de-France" pays="France" lat="48.95" long="2.38333">
+      <utilisateur id="988">
+        <username>zeitgeist11</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Traduction, Évènementiel, Relations publiques</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="La Rochelle" region="Poitou-Charentes" pays="France" lat="46.16667" long="-1.15">
+      <utilisateur id="989">
+        <username>Val</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Audiovisuel, Création de supports, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cernay" region="Alsace" pays="France" lat="47.8097" long="7.17699">
+      <utilisateur id="995">
+        <username>davidfla</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bayonne" region="Aquitaine" pays="France" lat="43.48333" long="-1.48333">
+      <utilisateur id="1002">
+        <username>StephaneBernard</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Rennes" region="Bretagne" pays="France" lat="48.11198" long="-1.67429">
+      <utilisateur id="1003">
+        <username>jeremy</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1160">
+        <username>redeyes361</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Législation, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="BÃ©ziers" region="Languedoc-Roussillon" pays="France" lat="43.34762" long="3.21899">
+      <utilisateur id="1006">
+        <username>gary</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bizerte" region="" pays="Tunisie" lat="37.27442" long="9.87391">
+      <utilisateur id="1008">
+        <username>daliomrane</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Documentation, Relations étrangères, Traduction, Évènementiel, Relations publiques, Webdesign</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Champigny-sur-Marne" region="Île-de-France" pays="France" lat="48.81642" long="2.49366">
+      <utilisateur id="1011">
+        <username>Tyler</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Relecture, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Woluwe Saint Lambert" region="Bruxelles-Capitale" pays="Belgique" lat="" long="">
+      <utilisateur id="1322">
+        <username>yann74</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Audiovisuel, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Gaillon" region="Haute-Normandie" pays="France" lat="49.16104" long="1.34016">
+      <utilisateur id="1042">
+        <username>Fabienne</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cambo-les-Bains" region="Aquitaine" pays="France" lat="43.3585" long="-1.40105">
+      <utilisateur id="1043">
+        <username>askatasuna</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Chalon-sur-SaÃ´ne" region="Bourgogne" pays="France" lat="46.78333" long="4.85">
+      <utilisateur id="1047">
+        <username>patachone</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Documentation, Relations étrangères, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Dax" region="Aquitaine" pays="France" lat="43.71032" long="-1.05366">
+      <utilisateur id="1050">
+        <username>pimpam</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Relations étrangères, Traduction, Création de supports, Évènementiel, Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Circonscription Ã©lectorale de Rouyn-Noranda--TÃ©miscamingue" region="Abitibi-Témiscamingue" pays="Canada" lat="47.33344" long="-78.6663">
+      <utilisateur id="1054">
+        <username>Shanie</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Relecture, Audiovisuel, Documentation, Modération, Relations étrangères, Création de supports, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="El Jadida" region="" pays="Maroc" lat="33.25492" long="-8.50602">
+      <utilisateur id="1055">
+        <username>nawfaw</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture, Modération, Relations étrangères, Traduction, Rédaction, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Fauvillers" region="Luxembourg (Province Belgique)" pays="Belgique" lat="49.85116" long="5.66405">
+      <utilisateur id="1056">
+        <username>kidow2306</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relecture, Relations étrangères, Évènementiel, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lac Chicoutimi" region="Saguenay-Lac-Saint-Jean" pays="Canada" lat="48.2001" long="-72.56585">
+      <utilisateur id="1063">
+        <username>escargot</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Documentation, Évènementiel, Rédaction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Vasselay" region="Centre" pays="France" lat="47.15686" long="2.38963">
+      <utilisateur id="1068">
+        <username>ptijames</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cestas" region="Aquitaine" pays="France" lat="44.74345" long="-0.67905">
+      <utilisateur id="1075">
+        <username>Willix</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="saint etienne" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1323">
+        <username>megathier</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Documentation, Réflexion stratégique, Relecture, Traduction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Circuit de Monaco" region="P.A.C.A." pays="France" lat="43.73628" long="7.42139">
+      <utilisateur id="1081">
+        <username>mozefock</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relations étrangères, Traduction, Évènementiel, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lamotte-Beuvron" region="Centre" pays="France" lat="47.602" long="2.02837">
+      <utilisateur id="1083">
+        <username>nicolo</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Législation, Réflexion stratégique, Modération, Relations étrangères, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="loc eguiner" region="Bretagne" pays="France" lat="" long="">
+      <utilisateur id="1319">
+        <username>tijah</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Médiation, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Corgoloin" region="Bourgogne" pays="France" lat="47.0848" long="4.91268">
+      <utilisateur id="1088">
+        <username>TORii</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture, Documentation, Rédaction</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Cournon-d Auvergne" region="Auvergne" pays="France" lat="45.73543" long="3.19608">
+      <utilisateur id="1090">
+        <username>scherma</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture, Documentation, Modération, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Catania" region="Bretagne" pays="Italie" lat="37.50213" long="15.08719">
+      <utilisateur id="1092">
+        <username>George</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Les Jardins-de-Napierville" region="Montérégie" pays="Canada" lat="45.16678" long="-73.51587">
+      <utilisateur id="1095">
+        <username>yan</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Réflexion stratégique, Relecture, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Suresnes" region="Île-de-France" pays="France" lat="48.87143" long="2.22929">
+      <utilisateur id="1098">
+        <username>anarita8</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Réflexion stratégique, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Linards" region="Limousin" pays="France" lat="45.70082" long="1.53259">
+      <utilisateur id="1101">
+        <username>wackzy</username>
+        <usertype>Registered</usertype>
+        <competences>Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Mallemort" region="P.A.C.A." pays="France" lat="43.73172" long="5.17945">
+      <utilisateur id="1102">
+        <username>olivemove</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Audiovisuel, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Clichy-sous-Bois" region="Île-de-France" pays="France" lat="48.9102" long="2.55324">
+      <utilisateur id="1104">
+        <username>Gosseynmatheo</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Brest" region="Bretagne" pays="France" lat="48.4" long="-4.48333">
+      <utilisateur id="1106">
+        <username>mignontouplin</username>
+        <usertype>Registered</usertype>
+        <competences>Création de supports, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1311">
+        <username>cyanuuure</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Évènementiel, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Carhaix-Plouguer" region="Bretagne" pays="France" lat="48.27594" long="-3.57326">
+      <utilisateur id="1109">
+        <username>Shaoshu</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Réflexion stratégique, Audiovisuel, Documentation, Relations étrangères, Traduction, Création de supports, Évènementiel, Rédaction, Relations publiques</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Gaillac" region="Midi-Pyrénées" pays="France" lat="43.9016" long="1.89686">
+      <utilisateur id="1112">
+        <username>faryann</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Traduction, Relations publiques</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="NÃ©bian" region="Languedoc-Roussillon" pays="France" lat="43.60657" long="3.43133">
+      <utilisateur id="1114">
+        <username>cfc34000</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Reims-Champagne" region="Champagne-Ardenne" pays="France" lat="49.31" long="4.05">
+      <utilisateur id="1115">
+        <username>Mini51470</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Législation, Relations étrangères, Traduction, Audiovisuel, Documentation, Modération, Relations publiques, Création de supports, Évènementiel, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Les Herbiers" region="Pays de la Loire" pays="France" lat="46.86667" long="-1.01667">
+      <utilisateur id="1121">
+        <username>midani85</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1192">
+        <username>luckySTAR85</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Woincourt" region="Picardie" pays="France" lat="50.0663" long="1.53676">
+      <utilisateur id="1122">
+        <username>tijack</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Villeurbanne" region="Rhône-Alpes" pays="France" lat="45.76667" long="4.88333">
+      <utilisateur id="1123">
+        <username>Kanouille</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Ajaccio" region="Corse" pays="France" lat="41.92723" long="8.73462">
+      <utilisateur id="1141">
+        <username>coooofidis</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Traduction, Création de supports, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Salvagnac-Cajarc" region="Midi-Pyrénées" pays="France" lat="44.47501" long="1.84742">
+      <utilisateur id="1143">
+        <username>artnousphere</username>
+        <usertype>Registered</usertype>
+        <competences>Documentation, Modération, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Nancy" region="Lorraine" pays="France" lat="48.68333" long="6.2">
+      <utilisateur id="1145">
+        <username>budbundy</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères, Traduction, Relecture</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Blois" region="Centre" pays="France" lat="47.58333" long="1.33333">
+      <utilisateur id="1146">
+        <username>cephe94</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Haguenau" region="Alsace" pays="France" lat="48.81557" long="7.79051">
+      <utilisateur id="1149">
+        <username>vhvpyut</username>
+        <usertype>Registered</usertype>
+        <competences>Modération</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Auch" region="Midi-Pyrénées" pays="France" lat="43.65" long="0.58333">
+      <utilisateur id="1152">
+        <username>jerseyman</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations publiques, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="bourg les valence" region="" pays="France" lat="" long="">
+      <utilisateur id="1252">
+        <username>groome</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Figeac" region="Midi-Pyrénées" pays="France" lat="44.6" long="2.03333">
+      <utilisateur id="1157">
+        <username>elo356</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Documentation, Modération, Création de supports, Évènementiel, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Fribourg" region="" pays="Suisse" lat="46.80237" long="7.15128">
+      <utilisateur id="1161">
+        <username>Grasshopper</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations étrangères, Documentation, Relations publiques, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Calais" region="Nord-Pas-de-Calais" pays="France" lat="50.9581" long="1.85205">
+      <utilisateur id="1165">
+        <username>margougui</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+      <utilisateur id="1184">
+        <username>kaki</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations publiques, Relecture</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Jauche" region="Brabant wallon" pays="Belgique" lat="50.68136" long="4.95563">
+      <utilisateur id="1167">
+        <username>napo</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Arc-sous-Cicon" region="Franche-Comté" pays="France" lat="47.05105" long="6.37984">
+      <utilisateur id="1173">
+        <username>earthawake</username>
+        <usertype>Registered</usertype>
+        <competences>Législation, Traduction, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Clermont-Ferrand" region="Auvergne" pays="France" lat="45.77966" long="3.08628">
+      <utilisateur id="1174">
+        <username>bouddhayanna</username>
+        <usertype>Registered</usertype>
+        <competences>Relations publiques, Évènementiel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Riom" region="Auvergne" pays="France" lat="45.9" long="3.11667">
+      <utilisateur id="1175">
+        <username>ben</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Fort-de-France" region="Martinique" pays="France" lat="14.60892" long="-61.07334">
+      <utilisateur id="1191">
+        <username>Stan</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Relations publiques, Réflexion stratégique, Création de supports, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Osse-en-Aspe" region="Aquitaine" pays="France" lat="42.99504" long="-0.61652">
+      <utilisateur id="1194">
+        <username>mornez</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Médiation, Relations publiques, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="talencea" region="Aquitaine" pays="France" lat="" long="">
+      <utilisateur id="1266">
+        <username>afaf</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Réflexion stratégique, Évènementiel, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="clermont ferrand" region="Auvergne" pays="France" lat="" long="">
+      <utilisateur id="1267">
+        <username>Irina</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Relations publiques, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="St Joseph" region="La Réunion" pays="France" lat="" long="">
+      <utilisateur id="1269">
+        <username>Hirondelle</username>
+        <usertype>Registered</usertype>
+        <competences>Audiovisuel, Réflexion stratégique, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lunel" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1271">
+        <username>KLEIG</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Relecture, Création de supports, Relations étrangères, Traduction</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="lyon france" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1272">
+        <username>pauline</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Documentation, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Choisy le roi" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1275">
+        <username>UYU</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Audiovisuel, Réflexion stratégique</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="VILLEMOMBLE" region="Île-de-France" pays="France" lat="" long="">
+      <utilisateur id="1277">
+        <username>elji</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Réflexion stratégique, Évènementiel, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bogota" region="" pays="Colombie" lat="" long="">
+      <utilisateur id="1281">
+        <username>123456789</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relecture, Création de supports, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="trois-riviére" region="Centre-du-Québec" pays="Canada" lat="" long="">
+      <utilisateur id="1283">
+        <username>danos23qc</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Création de supports, Évènementiel</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Bort l'Etang" region="Auvergne" pays="France" lat="" long="">
+      <utilisateur id="1286">
+        <username>NagaSaki</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Lausanne" region="Région lémanique" pays="Suisse" lat="" long="">
+      <utilisateur id="1287">
+        <username>olivier4111</username>
+        <usertype>Registered</usertype>
+        <competences>Développement</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Blamont" region="Franche-Comté" pays="France" lat="" long="">
+      <utilisateur id="1289">
+        <username>Guiguiator</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="liege" region="" pays="Belgique" lat="" long="">
+      <utilisateur id="1293">
+        <username>randykolp</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Relations publiques, Relations étrangères</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="lalinde" region="Aquitaine" pays="France" lat="" long="">
+      <utilisateur id="1294">
+        <username>olivier</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Médiation, Relations publiques, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="pontchateau" region="Pays de la Loire" pays="France" lat="" long="">
+      <utilisateur id="1295">
+        <username>shivaskunk</username>
+        <usertype>Registered</usertype>
+        <competences>Médiation, Relations publiques, Audiovisuel, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="caudry" region="Nord-Pas-de-Calais" pays="France" lat="" long="">
+      <utilisateur id="1296">
+        <username>ludo59540</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="CLARA" region="Languedoc-Roussillon" pays="France" lat="" long="">
+      <utilisateur id="1297">
+        <username>dominique</username>
+        <usertype>Registered</usertype>
+        <competences>Non renseigne</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="pau" region="Aquitaine" pays="France" lat="" long="">
+      <utilisateur id="1299">
+        <username>amario64</username>
+        <usertype>Registered</usertype>
+        <competences>Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Chaumont" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1300">
+        <username>Antharesis</username>
+        <usertype>Registered</usertype>
+        <competences>Relations étrangères</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="nantes" region="Pays de la Loire" pays="France" lat="" long="">
+      <utilisateur id="1303">
+        <username>Raph</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Réflexion stratégique, Relecture</competences>
+        <disponibilite>Non renseigne</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="annonay" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1304">
+        <username>llopis</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Médiation, Documentation, Réflexion stratégique, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Boisbriand" region="Laurentides" pays="Canada" lat="" long="">
+      <utilisateur id="1307">
+        <username>Paupaul</username>
+        <usertype>Registered</usertype>
+        <competences>Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Saint Nazaire" region="Pays de la Loire" pays="France" lat="" long="">
+      <utilisateur id="1308">
+        <username>Floran</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Documentation, Réflexion stratégique</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="les vans" region="Rhône-Alpes" pays="France" lat="" long="">
+      <utilisateur id="1313">
+        <username>rafasoundramifik</username>
+        <usertype>Registered</usertype>
+        <competences>Développement, Évènementiel</competences>
+        <disponibilite>Moins de 3h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+    <ville nom="Clermont Ferrand" region="Auvergne" pays="France" lat="" long="">
+      <utilisateur id="1314">
+        <username>tchernobill</username>
+        <usertype>Registered</usertype>
+        <competences>Accueil, Développement, Médiation, Relations publiques, Audiovisuel, Documentation, Réflexion stratégique, Création de supports, Évènementiel</competences>
+        <disponibilite>Entre 4 et 10h par semaine</disponibilite>
+      </utilisateur>
+  </ville>
+</xml>
