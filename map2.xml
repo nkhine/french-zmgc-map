@@ -1523,7 +1523,7 @@
         <disponibilite>Non renseigne</disponibilite>
       </utilisateur>
   </ville>
-    <ville nom="Saint-Ãtienne" region="Rhône-Alpes" pays="France" lat="45.43333" long="4.4">
+    <ville nom="Saint-Étienne" region="Rhône-Alpes" pays="France" lat="45.43333" long="4.4">
       <utilisateur id="914">
         <username>emas</username>
         <usertype>Registered</usertype>
